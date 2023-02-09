@@ -1,6 +1,7 @@
-# Projects with Python
+# Projects
 
-This folder contains some of the projects that I developed using Python.
+This folder contains some of the projects that I developed using Python or SQL.
 
 
-<b> Tree Species in New York </b> - it was a challenge, where I needed to answer four questions using the dataset given
+<b> Tree Species in New York </b> - Python
+<b> When Was the Golden Age of Video Games? </b> - SQL
